@@ -1,5 +1,5 @@
 paypal:
-  client-id: AegT5Cntdqzc6v3eAqQzyhlLuxgZn8g9N9o3BG8Cn6o4xy3vkyfCmWFjsOV1Gfc-7QAQylDxrdWpMK87
-  client-secret: EJjs8GgYJn1mwVl6u9LxbO1lBa8W8gl_D_ULEnQjCWcfYeAzM_yM6FGRAZwBKFXgITOtOKiGmLy5Zw34
+  client-id: #Your Client ID
+  client-secret: #Your PayPal Client secret
   mode: sandbox
 
